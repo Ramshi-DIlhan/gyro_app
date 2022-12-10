@@ -1,0 +1,14 @@
+/workspace/gyro_app/build/linux/x64/release/CMakeFiles/gitpod_flutter_quickstart.dir
+/workspace/gyro_app/build/linux/x64/release/CMakeFiles/edit_cache.dir
+/workspace/gyro_app/build/linux/x64/release/CMakeFiles/rebuild_cache.dir
+/workspace/gyro_app/build/linux/x64/release/CMakeFiles/list_install_components.dir
+/workspace/gyro_app/build/linux/x64/release/CMakeFiles/install.dir
+/workspace/gyro_app/build/linux/x64/release/CMakeFiles/install/local.dir
+/workspace/gyro_app/build/linux/x64/release/CMakeFiles/install/strip.dir
+/workspace/gyro_app/build/linux/x64/release/flutter/CMakeFiles/flutter_assemble.dir
+/workspace/gyro_app/build/linux/x64/release/flutter/CMakeFiles/edit_cache.dir
+/workspace/gyro_app/build/linux/x64/release/flutter/CMakeFiles/rebuild_cache.dir
+/workspace/gyro_app/build/linux/x64/release/flutter/CMakeFiles/list_install_components.dir
+/workspace/gyro_app/build/linux/x64/release/flutter/CMakeFiles/install.dir
+/workspace/gyro_app/build/linux/x64/release/flutter/CMakeFiles/install/local.dir
+/workspace/gyro_app/build/linux/x64/release/flutter/CMakeFiles/install/strip.dir

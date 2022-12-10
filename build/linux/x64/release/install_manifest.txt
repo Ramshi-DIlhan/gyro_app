@@ -1,0 +1,10 @@
+/workspace/gyro_app/build/linux/x64/release/bundle/gitpod_flutter_quickstart
+/workspace/gyro_app/build/linux/x64/release/bundle/data/icudtl.dat
+/workspace/gyro_app/build/linux/x64/release/bundle/lib/libflutter_linux_gtk.so
+/workspace/gyro_app/build/linux/x64/release/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/workspace/gyro_app/build/linux/x64/release/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/workspace/gyro_app/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.json
+/workspace/gyro_app/build/linux/x64/release/bundle/data/flutter_assets/FontManifest.json
+/workspace/gyro_app/build/linux/x64/release/bundle/data/flutter_assets/NOTICES.Z
+/workspace/gyro_app/build/linux/x64/release/bundle/data/flutter_assets/version.json
+/workspace/gyro_app/build/linux/x64/release/bundle/lib/libapp.so

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/workspace/gyro_app/build/sensors_plus/intermediates/merged_res/release/layout/notification_template_part_chronometer.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/workspace/gyro_app/build/sensors_plus/intermediates/merged_res/release/layout/notification_template_icon_group.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/workspace/gyro_app/build/sensors_plus/intermediates/merged_res/release/layout/custom_dialog.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/workspace/gyro_app/build/sensors_plus/intermediates/merged_res/release/layout/notification_action_tombstone.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/workspace/gyro_app/build/sensors_plus/intermediates/merged_res/release/layout/notification_action.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/workspace/gyro_app/build/sensors_plus/intermediates/merged_res/release/layout/notification_template_part_time.xml",
+        "source": "/workspace/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    }
+]
